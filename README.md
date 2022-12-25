@@ -1,3 +1,3 @@
-# for...in
+# Регулярные выражения (ВАЛИДАЦИЯ ИМЕНИ)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7o98yyk2gm4yo0co?svg=true)](https://ci.appveyor.com/project/bugagi67/for-in)
+[![Build status](https://ci.appveyor.com/api/projects/status/21eak2byn64esc54?svg=true)](https://ci.appveyor.com/project/bugagi67/ajs-regular-expressions)
