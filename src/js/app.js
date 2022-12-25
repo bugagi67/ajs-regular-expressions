@@ -1,1 +1,1 @@
-import '../js/Validator';
+import './Validator';
